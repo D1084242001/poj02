@@ -1,0 +1,19 @@
+body{
+    width: 1000px;
+    margin: auto;
+}
+header{
+    width: 995px;
+    margin: auto;
+    background-color: aquamarine;
+}
+.cav{
+    display: flex;
+}
+.acv{
+    list-style: none;
+    margin-right: 15px;
+}
+li a{
+    text-decoration: none;
+}
